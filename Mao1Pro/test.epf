@@ -1,0 +1,106 @@
+#Wed Apr 25 13:43:20 CST 2018
+\!/=
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=C\:\\Users\\Administrator\\eclipse-workspace\nC\:\\Users\\Administrator\\eclipse-workspace1
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=false
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.debug.core/org.eclipse.debug.core.PREF_BREAKPOINT_MANAGER_ENABLED_STATE=false
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.debug.ui/preferredTargets=default\:default|
+/instance/org.eclipse.epp.logging.aeri.ide/configured=true
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendMode=KEEP
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendModeOn=0
+/instance/org.eclipse.epp.logging.aeri.ide/sendMode=NEVER
+/instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=http\://marketplace.eclipse.org
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_74/lib/rt.jar
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
+/instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.content_assist_favorite_static_members_migrated=true
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1524152261344" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1524152261344" name\="jre1.8.0_74" path\="C\:\\Program Files\\Java\\jre1.8.0_74"/>\r\n<vm id\="1524156957201" name\="jdk1.8.0_74" path\="C\:\\Program Files\\Java\\jdk1.8.0_74"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.@abcdefghijklmnopqrstuvwxyz
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_javadoc=\#
+/instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.testng.Assert.*
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.test.Calculator"><rhs name\="com.test.Calculator"/></lhs><lhs name\="com.test.cal.Calculator"><rhs name\="com.test.cal.Calculator"/></lhs></history>
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=19
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=13
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.code_templates_migrated=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
+/instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.jdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation=C\:/Users/Administrator/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
+/instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile=C\:\\apache-maven-3.5.2\\conf\\settings.xml
+/instance/org.eclipse.m2e.discovery/org.eclipse.m2e.discovery.pref.projects=
+/instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.mylyn.context.core/mylyn.attention.migrated=true
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_10_0=1
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_1_0=1
+/instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
+/instance/org.eclipse.mylyn.tasks.ui/migrated.task.repositories.secure.store=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.welcome.message=true
+/instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
+/instance/org.eclipse.recommenders.completion.rcp/completion_tips_seen=org.eclipse.recommenders.completion.rcp.tips.discovery\:org.eclipse.recommenders.completion.rcp.tips.types
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/platformState=1524129745881
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=3
+/instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.xml.ui/autoProposeCode=<\=\:abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+/instance/org.eclipse.wst.xml.ui/org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart.lastActivePage=1
+/instance/org.eclipse.wst.xml.ui/xml_content_assist_default_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000
+/instance/org.eclipse.wst.xml.ui/xml_content_assist_own_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000
+@org.eclipse.core.net=1.3.100.v20170516-0820
+@org.eclipse.core.resources=3.12.0.v20170417-1558
+@org.eclipse.debug.core=3.11.0.v20170605-1534
+@org.eclipse.debug.ui=3.12.50.v20170920-1329
+@org.eclipse.epp.logging.aeri.ide=2.0.6.v20170906-1226
+@org.eclipse.epp.mpc.ui=1.6.3.v20171122-2010
+@org.eclipse.jdt.core=3.13.100.v20171123-1049
+@org.eclipse.jdt.junit=3.10.51.v20171107-1248
+@org.eclipse.jdt.launching=3.9.51.v20171114-1018
+@org.eclipse.jdt.ui=3.13.51.v20171122-0652
+@org.eclipse.m2e.core=1.8.2.20171007-0217
+@org.eclipse.m2e.discovery=1.8.2.20171007-0217
+@org.eclipse.m2e.editor.xml=1.8.2.20171007-0217
+@org.eclipse.mylyn.context.core=3.23.0.v20170411-2108
+@org.eclipse.mylyn.java.ui=3.23.0.v20170411-2108
+@org.eclipse.mylyn.monitor.ui=3.23.0.v20170411-1844
+@org.eclipse.mylyn.tasks.ui=3.23.1.v20170623-0008
+@org.eclipse.oomph.workingsets=1.8.0.v20170318-0419
+@org.eclipse.recommenders.completion.rcp=2.5.0.v20171201-1623
+@org.eclipse.team.ui=3.8.1.v20170515-1133
+@org.eclipse.ui=3.109.0.v20170411-1742
+@org.eclipse.ui.editors=3.11.0.v20170202-1823
+@org.eclipse.ui.ide=3.13.1.v20170822-1526
+@org.eclipse.ui.workbench=3.110.1.v20170704-1208
+@org.eclipse.wst.sse.ui=1.3.600.v201707042340
+@org.eclipse.wst.xml.ui=1.1.800.v201704102213
+file_export_version=3.0
